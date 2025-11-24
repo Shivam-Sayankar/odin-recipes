@@ -15,3 +15,7 @@ Skills implementd in this project
 - images and links
 - directory structuring
 - relative paths
+
+---
+
+[Live Link](https://shivam-sayankar.github.io/odin-recipes/)
